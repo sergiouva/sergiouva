@@ -1,9 +1,11 @@
-#### Hi, I'm Sergio 👋
+## Hi, I'm Sergio 👋
 
-- I'm currently a student of DAM 🔭
-- I usually work with Java, C, JavaScript, CSS, Android and SQL 🌱, but I would like to learn a lot about coding ⚡
+> I'm currently a student of **DAM** 🔭
+> I usually work with Java, C, JavaScript, CSS, Android and SQL 🌱, but I would like to learn a lot about coding ⚡
 
-[![punpun2.jpg](https://i.postimg.cc/pdMkHwHV/punpun2.jpg)](https://postimg.cc/CRJbC659)
+<p align="center">
+[![punpun2.jpg](https://i.postimg.cc/VNHqN2yb/punpun2.jpg)](https://postimg.cc/TygL773R)
+</p>
 
 <!--
 **cesiouvas/cesiouvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
