@@ -1,4 +1,7 @@
-### Hi there 👋
+#### Hi, I'm Sergio 👋
+
+I'm currently a student of DAM 🔭
+I usually work with Java, C, JavaScript, CSS, Android and SQL 🌱, but I would like to learn a lot about coding ⚡
 
 <!--
 **cesiouvas/cesiouvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
