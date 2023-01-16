@@ -6,7 +6,7 @@
 
 > I'm currently a student of **DAM** 🔭
 
-> I usually work with Java, C, JavaScript, CSS, Android and SQL 🌱 and I would like to learn more about coding ⚡
+> I would like to learn more about coding ⚡
 
 <!--
 **cesiouvas/cesiouvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
