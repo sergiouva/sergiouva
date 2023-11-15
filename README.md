@@ -1,12 +1,8 @@
 ## Hi, I'm Sergio 👋
 
-<p align="center">
-  <img width="300" src="https://i.postimg.cc/VNHqN2yb/punpun2.jpg">
-</p>
-
 > I'm currently a student of **DAM** 🔭
 
-> I would like to learn more about coding ⚡
+> My main aim is to learn more about coding ⚡
 
 <!--
 **cesiouvas/cesiouvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
