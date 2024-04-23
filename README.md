@@ -6,4 +6,4 @@
   * Microcomputer Systems and Network
   * Multi platform Application Development
 
-+ 📧 Try reaching me on: sergiodmcb@gmail.com [sergiodmcb@gmail.com](sergiodmcb@gmail.com)
++ 📧 Try to reach me on: sergiodmcb@gmail.com
