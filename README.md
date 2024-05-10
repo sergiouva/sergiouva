@@ -5,3 +5,5 @@
 + 📚 Studies:
   * Microcomputer Systems and Network
   * Multi platform Application Development
+
++ 📬 Try to reach me on: sergiodmcb@gmail.com
